@@ -1,0 +1,15 @@
+{
+  "name": "singleton",
+  "paths": [
+    "SimpleName#1_ClassOrInterfaceDeclaration#1",
+    "PUBLIC_ClassOrInterfaceDeclaration#1",
+    "PRIVATE_ConstructorDeclaration#1_ClassOrInterfaceDeclaration#1",
+    "SimpleName#1_ConstructorDeclaration#1_ClassOrInterfaceDeclaration#1",
+    "PUBLIC_MethodDeclaration#1_ClassOrInterfaceDeclaration#1",
+    "STATIC_MethodDeclaration#1_ClassOrInterfaceDeclaration#1",
+    "SimpleName#1_ClassOrInterfaceType#1_MethodDeclaration#1_ClassOrInterfaceDeclaration#1",
+    "PRIVATE_FieldDeclaration#1_ClassOrInterfaceDeclaration#1",
+    "STATIC_FieldDeclaration#1_ClassOrInterfaceDeclaration#1",
+    "SimpleName#1_ClassOrInterfaceType#1_VariableDeclarator#1_FieldDeclaration#1_ClassOrInterfaceDeclaration#1",
+    "SimpleName#2_VariableDeclarator#1_FieldDeclaration#1_ClassOrInterfaceDeclaration#1"]
+}
